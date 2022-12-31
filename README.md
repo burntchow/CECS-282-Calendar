@@ -1,4 +1,4 @@
-# CECS-282-Calendar
+# Calendar
 ## Project 2
 
 Test File - driver.cpp written by my professor Steven H. Gold 
